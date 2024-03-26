@@ -1,2 +1,2 @@
-# ejemplo_Mario
+# FPOO
 movimientos , distancia 
